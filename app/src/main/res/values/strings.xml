@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll dice and calculate average</string>
+
+    <string name="instruction">Roll dice and calculate the new average dice value in one decimal.</string>
+    <string name="average">Average dice value: %s after %d rolls of the dice.</string>
+    <string name="next_roll">Next roll</string>
+</resources>
